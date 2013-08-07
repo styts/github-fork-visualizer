@@ -1,0 +1,7 @@
+(Note to self, according to the date on the original README file, this idea
+was first typed down back in October 2012)
+
+Clone projects from github to our servers on AWS.
+Analyze the code (the diffs)
+Visualize the advantageous forks
+* Now user answered the problem: what fork to work with.
